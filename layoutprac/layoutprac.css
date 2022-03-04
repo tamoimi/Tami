@@ -1,0 +1,42 @@
+header {
+    background-color: rgb(224, 177, 150);
+    font-size: 40px; 
+    font-family: fantasy;
+    text-align: center;
+    padding-top: 5%;  
+    padding-bottom: 5%;
+
+}
+main {
+    background-color: skyblue;
+    height: 140px;
+    text-align: center;
+    font-size: 80px;
+    font-family: fantasy;
+    padding-top: 4%;
+    
+}
+section {
+    background-color: rgb(180, 174, 120);
+    font-family: fantasy;
+    text-align: center;
+    width: auto;
+
+}
+section.img source {
+    size: 10%;
+}
+div {
+    font-size: 20px;
+    text-align: center;
+    padding: 5%;
+}
+footer {
+    background-color: rgb(51, 67, 97);
+    color: antiquewhite;
+    height: 100px;
+    padding-top: 4%;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
